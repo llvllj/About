@@ -5,14 +5,14 @@ Welcome to my GitHub! I'm Seyed Mohammad Jafar Taheri, an IT professional with a
 # Seyed Mohammad Jafar Taheri
 
 ## Contact Information
-- Email: Mohammadjafar.taheri@gmail.com
-- LinkedIn: Mohammadjafar.taheri
-- Address: Finland, Helsinki
+- ✉️ Email: Mohammadjafar.taheri@gmail.com
+- 💼 LinkedIn: Mohammadjafar.taheri
+- 🏡 Address: Finland, Helsinki
 
-## Summary
-A proactive IT professional with a robust blend of project management and DevOps competencies. With a demonstrated history in the healthcare industry, I excel in creating innovative solutions that enhance patient care and treatment efficiency. Passionate about continuous learning, I am committed to advancing my DevOps skills to drive automation and operational efficiency in every project I undertake.
+## 📚 Summary
+An enterprising IT professional with a robust blend of project management and DevOps competencies. With a demonstrated history in the healthcare industry, based on user stories and service backlog I excel in creating innovative solutions that enhance patient care and treatment efficiency. Enthusiastic about the software development process and continuous learning, I am committed to advancing my DevOps skills to drive automation and operational efficiency in every project I undertake. I bring unique insights to foster collaborative dynamics within diverse teams. My expertise includes the ability to provide necessary clarification on technical matters, further ensuring seamless team cooperation and project success.
 
-## Skills
+## 👨‍💻 Skills
 ![Linux Systems Administration](https://img.shields.io/badge/-Linux_Systems_Administration-blue)
 ![Scripting](https://img.shields.io/badge/-Scripting-brightgreen)
 ![Network Engineering](https://img.shields.io/badge/-Network_Engineering-blue)
@@ -29,6 +29,7 @@ A proactive IT professional with a robust blend of project management and DevOps
 ![AWS](https://img.shields.io/badge/-AWS-orange)
 ![Patient-Centric IT Solutions](https://img.shields.io/badge/-Patient_Centric_IT_Solutions-blue)
 
+## 🌱 I’m currently learning
 
 ## Experience
 ### Masih Daneshvari Hospital, Tehran, Iran
@@ -38,13 +39,13 @@ A proactive IT professional with a robust blend of project management and DevOps
 - Implemented a virtual clinic for Masih Daneshvari Hospital.
 
 ### Telemedicine Research Center, Iran
-#### IT Project Manager | Sep 2017 – Feb 2019
+#### IT Product Owner  | Sep 2017 – Nov 2020
 - Implemented a mobile app to alleviate the pain and stress of thoracic surgery candidates.
-- Developed a mobile app for indoor navigation using Quick Response Codes.
+- Launched an innovative mobile app for indoor navigation utilizing Quick Response Codes 
 - Implemented a VoIP platform for tele patient examination.
-- Developed a mobile app for home monitoring of Cystic Fibrosis patients.
+- Launched a mobile app for home monitoring of Cystic Fibrosis patients.
 
-## Education
+## 🎓 Education
 ### IAU, IRAN
 #### Master of Information Technology Engineering | Sep 2015 —Sep 2017
 Evaluated and approved by World Education Service
